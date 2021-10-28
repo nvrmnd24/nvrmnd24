@@ -14,7 +14,7 @@ int main()
 	cout << "while" << endl;
 	while (x <= max + h / 2)
 	{
-		y = (tan(x) + pow(x, 1 / 2) + 2);
+		y = (tan(x) + pow(x, 1 / 5) + 2);
 		cout << setw(10) << x << setw(10) << y << endl;
 		x += h;
 	}
