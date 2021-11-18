@@ -5,9 +5,9 @@
 using namespace std;
 
 int main()
-{
+{// commentttt
 	int min, max;
-	float h, y, x;
+	float h, y, x, h;
 	cout << "[min, max] and h" << endl;
 	cin >> min >> max >> h;
 	x = min;
