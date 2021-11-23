@@ -5,7 +5,7 @@
 using namespace std;
 
 int main()
-{// commentttt
+{// new commit 2
 	int min, max;
 	float h, y, x, h;
 	cout << "[min, max] and h" << endl;
