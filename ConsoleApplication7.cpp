@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
 	float Z, y;
-	cout << "Input y";
+	//cout << "Input y";
 	cin >> y;
 	Z = 1;
 	for (int m = 1; m <= 5; m++) {
