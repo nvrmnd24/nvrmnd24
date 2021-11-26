@@ -5,9 +5,9 @@
 using namespace std;
 
 int main()
-{// new commit 2
+{
 	int min, max;
-	float h, y, x, h;
+	float h, y, x;
 	cout << "[min, max] and h" << endl;
 	cin >> min >> max >> h;
 	x = min;
